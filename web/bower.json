@@ -1,0 +1,22 @@
+{
+  "name": "myfood-web",
+  "description": "Web app for the myfood project",
+  "main": "app.js",
+  "authors": [
+    "harrisonlingren@gmail.com"
+  ],
+  "license": "Apache-2.0",
+  "keywords": [
+    "food",
+    "recipes"
+  ],
+  "homepage": "https://github.com/harrisonlingren/myfood",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
